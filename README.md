@@ -1,18 +1,17 @@
 # Todo List App
 
-A simple todo list application managed by ATLAS (Automated Task List and Scheduling) Interface.
-
 ## Overview
-This repository demonstrates automated code management through MCP (Model Context Protocol) integration.
+This is a simple todo list application developed by Atlas Automata.
 
 ## Features
-- Automated code changes
-- MCP server integration
-- Slack notifications
-- GitHub workflow automation
+- Create new todos
+- Mark todos as complete
+- Delete todos
 
 ## Getting Started
-More details coming soon...
+1. Clone the repository
+2. Install dependencies
+3. Run the application
 
-## Managed by ATLAS
-This repository is actively managed by the ATLAS Interface, demonstrating automated development workflows.
+## Contributing
+Please read the contributing guidelines before submitting a pull request.
